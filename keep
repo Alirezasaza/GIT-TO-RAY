@@ -1,5 +1,0 @@
-while true
-do
-    echo "I'm Still Alive"
-    sleep 162
-done
